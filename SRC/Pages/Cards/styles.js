@@ -15,7 +15,7 @@ export const MainFundo = styled.View`
     width: 90%;
     height: 150px;
     border-radius: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
     align-items: flex-end;
 `;
 
