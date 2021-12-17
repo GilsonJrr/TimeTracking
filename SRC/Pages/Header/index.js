@@ -20,7 +20,7 @@ export default function Header() {
                     <Text01> Daily </Text01>
                 </TouchableOpacity>
                 <TouchableOpacity>
-                    <Text01> Weekly </Text01>
+                    <Text01 style={{color:'#FFFFFF'}}> Weekly </Text01>
                 </TouchableOpacity>
                 <TouchableOpacity>
                     <Text01> Monthly </Text01>

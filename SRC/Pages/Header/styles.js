@@ -54,6 +54,7 @@ export const HeaderBottom = styled.View`
     height: 200px;
     background: #1D204B;
     border-radius: 20px;
+    margin-bottom: 25px;
 `;
 
 export const BottomContainer = styled.View`

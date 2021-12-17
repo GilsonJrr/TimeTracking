@@ -2,21 +2,23 @@ import styled from 'styled-components/native';
 
 export const Main = styled.View`
     width: 100%;
-    height: 117px;
+    height: 110px;
     background: #1D204B;
     border-radius: 20px;
-    margin-top: 40px;
+    margin-top: 35px;
     align-items: center;
     justify-content: center;
     flex-direction: row;
+    margin-bottom: 10px;
 `;
 
 export const MainFundo = styled.View`
-    width: 90%;
-    height: 150px;
+    width: 97%;
+    height: 140px;
     border-radius: 20px;
-    margin-top: 30px;
     align-items: flex-end;
+    margin-bottom: 25px;
+    align-self: center;
 `;
 
 export const ContainerTitle = styled.View`
