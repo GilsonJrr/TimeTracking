@@ -7,7 +7,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -36,3 +35,7 @@ Users should be able to:
 
 - [React](https://reactnative.dev/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
+
+### What I learned
+
+
