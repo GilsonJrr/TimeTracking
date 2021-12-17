@@ -13,13 +13,15 @@ export default function Cards(props) {
       <Main>
         <ContainerTitle>
           <Titulo>{props.titulo}</Titulo>
-          <Horas>{props.horas}hrs</Horas>
+          <Horas>{props.time}hrs</Horas>
         </ContainerTitle>
         <ContainerMore>
           <TouchableOpacity>
             <Image source={require('../../Assets/Image/Dots.png')} style={{ marginBottom: 20 }}/>
           </TouchableOpacity>
-          <Titulo style={{color: '#5F659E'}}> Last week - 36hrs</Titulo>
+            { props.daily === true && <Titulo style={{color: '#5F659E'}}> Yesterday - {props.time}hrs</Titulo> }
+            { props.weekly === true && <Titulo style={{color: '#5F659E'}}> Last Week - {props.time}hrs</Titulo> }
+            { props.monthly === true && <Titulo style={{color: '#5F659E'}}> Last Month - {props.time}hrs</Titulo> }
         </ContainerMore>
       </Main>
     </MainFundo>

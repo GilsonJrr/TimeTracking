@@ -37,7 +37,7 @@ export const Text01 = styled.Text`
     font-weight: normal;
     font-size: 18px;
     text-align: center;
-    color: #B5ADFF;
+    color: #5F659E;
 `;
 
 export const Name = styled.Text`
