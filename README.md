@@ -28,9 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot_1639771059](https://user-images.githubusercontent.com/65792764/146600794-ea18bb49-cbcb-4695-a401-f2189ecbb9f9.png) width="200" height="400"
-![Screenshot_1639771062](https://user-images.githubusercontent.com/65792764/146600798-9111a83e-bee0-431c-8dde-d6709710b879.png)
-![Screenshot_1639771065](https://user-images.githubusercontent.com/65792764/146600801-da201b33-00f3-438a-8170-94ea727b849e.png)
+<img src="https://user-images.githubusercontent.com/65792764/146600794-ea18bb49-cbcb-4695-a401-f2189ecbb9f9.png" width=25% height=25%> <img src="https://user-images.githubusercontent.com/65792764/146600798-9111a83e-bee0-431c-8dde-d6709710b879.png" width=25% height=25%> <img src="https://user-images.githubusercontent.com/65792764/146600801-da201b33-00f3-438a-8170-94ea727b849e.png" width=25% height=25%>
 
 ## My process
 
